@@ -1,0 +1,1137 @@
+{
+  "nodes": [
+    {
+      "cluster_id": "4005",
+      "distance": 0,
+      "size": 41,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/wirtschaft/2023-06/radverkehr-podcast-adfc-fahrradwege-berlin"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-05/klima-protest-letzte-generation-volker-wissing"
+        },
+        {
+          "page": "https://www.zeit.de/hamburg/2024-06/bezirkswahl-hamburg-kommunalwahl-landrat"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-06/oepnv-strassenbahn-neubau-tram-erlangen-regensburg-vorteile-nachteile"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-03/frankreich-lyon-tempo-30-bilanz-positiv"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/deutschlandticket-erfahrungen-finanzierung-nahverkehr"
+        },
+        {
+          "page": "https://www.zeit.de/wissen/2024-01/belit-onay-verkehrswende-hannover-krisenpodcast"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-06/14/fahrradbranche-fordert-ausbau-von-radwegen-und-subventionen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-02/16/gruene-jugend-fordert-investitionen-in-oepnv-oder-ruecktritt"
+        },
+        {
+          "page": "https://www.zeit.de/wissen/2023-10/klimaschutz-auto-nahverkehr-carsharing-ausrede"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-05/09/velo-city-in-leipzig-wem-gehoert-die-strasse"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-05/johannes-vogel-politikpodcast-ehrlich-jetzt"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-08/30/verkehrsverbaende-schwaches-zwischenzeugnis-fuer-koalition"
+        },
+        {
+          "page": "https://www.zeit.de/entdecken/2024-03/fahrradkauf-richtige-finden-fahrradtypen-hollandrad-mountainbike"
+        },
+        {
+          "page": "https://www.zeit.de/2024/10/wiener-neustadt-ostumfahrung-verkehrsplanung-oesterreich"
+        },
+        {
+          "page": "https://www.zeit.de/sinn/2024-05/falschparker-melden-privatperson-abschleppwagen-ordnungsamt"
+        },
+        {
+          "page": "https://www.zeit.de/hamburg/2024-01/elbvertiefung-11-01-2024"
+        },
+        {
+          "page": "https://www.zeit.de/video/2023-08/verkehrswende-auto-fahrrad-wechsel-radverkehr"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-04/02/wissing-gegen-tempolimit-das-wollen-die-leute-nicht"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-12/11/mit-dem-rad-von-berlin-zur-klimakonferenz"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-01/30/adac-umfrage-hier-sind-bahn-und-busfahrer-meist-zufrieden"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-09/26/verstaerkte-polizeikontrollen-aktionstag-fuer-mehr-sicherheit"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2024-04/volker-wissing-tempolimit-autobahn-klimaschutzziele"
+        },
+        {
+          "page": "https://www.zeit.de/kultur/2024-04/volker-wissing-fahrverbot-autofreie-tage-tempolimit"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/fahrrad-fahrer-fahrerinnen-rad-verkehr-eu-staaten-erklaerung"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-08/16/autofrei-wie-sich-verkehrsprojekte-auf-das-wohnen-auswirken"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-09/wissing-eu-fuehrerschein-tempolimit-fahranfaenger"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-09/20/streit-um-geplante-eu-fuehrerscheinregeln-spitzt-sich-zu"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-07/04/verkehr-in-berlin-verspielt-die-stadt-ihre-vorreiterrolle"
+        },
+        {
+          "page": "https://www.zeit.de/2024/23/radverkehr-berlin-verkehrspolitik-autofahrer-lastenraeder"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2023-10/autobahnausbau-ampelkoalition-lkw-maut-klimaschutz"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-09/21/streit-um-geplante-eu-fuehrerscheinregeln-spitzt-sich-zu"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/gelsenkirchen-e-roller-verbot-tier-bolt"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-07/02/autos-zurueck-in-der-friedrichstrasse-in-berlin"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-07/02/berlin-tausende-bei-fahrrad-demo-gegen-verkehrspolitik"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-04/13/fuehrerschein-mit-16-kommt-vorerst-nicht"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/e-bikes-e-scooter-mobilitaet-mitnahme-bahn"
+        },
+        {
+          "page": "https://www.zeit.de/hamburg/2024-01/adac-umfrage-unzufriedenheit-verkehr-hamburg"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/verkehrspolitik-stefan-bratzel-bahnnetz-strassenbau-stau-verkehrsforschung"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-05/deutschland-koennte-radverkehr-verdreifachen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-07/13/kanzler-scholz-lehnt-tempolimit-ab"
+        }
+      ],
+      "label": [
+        {
+          "label": "Neue Straßenbahnprojekte in Städten sorgen für kontroverse Diskussionen und erfordern eine umfassende Betrachtung",
+          "keywords": [
+            "Straßenbahnprojekte",
+            "Städteplanung",
+            "Kontroverse",
+            "Erlangen",
+            "Regensburg",
+            "Kiel",
+            "Verkehr",
+            "Infrastruktur",
+            "Bürgerbeteiligung",
+            "Debatten"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 6000,
+      "distance": 0.573901191111553,
+      "size": 2,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/mobilitaet/2023-09/windkraftanlagen-rotorblaetter-transport-autobahn-energiewende"
+        },
+        {
+          "page": "https://www.zeit.de/2023/43/deutsche-bahn-probleme-baustellen-ausfaelle-infrastruktur"
+        }
+      ],
+      "label": [
+        {
+          "label": "Herausforderungen und Probleme bei der Infrastruktur für erneuerbare Energien und den öffentlichen Verkehr",
+          "keywords": [
+            "Energiewende",
+            "Windkraftanlagen",
+            "Transport",
+            "Infrastruktur",
+            "Autobahn",
+            "Bahn",
+            "Generalsanierung",
+            "öffentlicher Verkehr",
+            "erneuerbare Energien",
+            "Stress"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 8124,
+      "distance": 0.583741351548005,
+      "size": 2,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/2024/25/neue-fernstrassen-autobahnen-bundesstrassen-kosten-bund"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-04/14/stellplaetze-auf-autobahn-fuer-lkw-fahrer-grosses-problem"
+        }
+      ],
+      "label": [
+        {
+          "label": "Kontroverse um teure und umweltschädliche Fernstraßenbau-Projekte in Deutschland",
+          "keywords": [
+            "Fernstraßenbau",
+            "Kosten",
+            "Umweltschutz",
+            "Planung",
+            "Bund",
+            "Studien",
+            "Kontroverse",
+            "Umweltverbände",
+            "Deutschland",
+            "Verkehrspolitik"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 4619,
+      "distance": 0.6085874318838994,
+      "size": 2,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/news/2024-01/11/fahrrad-club-kritisiert-geplante-kuerzungen-beim-radverkehr"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-07/bundeshaushalt-adfc-radverkehr-infrastruktur-kuerzungen"
+        }
+      ],
+      "label": [
+        {
+          "label": "Kritik an geplanten Mittelkürzungen im Bundeshaushalt für den Radverkehr",
+          "keywords": [
+            "ADFC",
+            "Kritik",
+            "Mittelkürzungen",
+            "Bundeshaushalt",
+            "Radverkehr",
+            "Finanzierung",
+            "Verkehrspolitik",
+            "Nationaler Radverkehrsplan",
+            "Infrastruktur",
+            "Fahrradförderung"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 4299,
+      "distance": 0.6067098248951344,
+      "size": 13,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/news/2023-09/21/kommunen-wollen-mehr-mitbestimmung-bei-tempo-30-zonen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-07/21/autobahngesellschaft-setzt-auf-ki-gegen-staus"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-03/elterntaxi-staedtetag-kommunen-reform-strassenverkehrsgesetz"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-03/10/staedtetag-zu-elterntaxis-mehr-spielraum-fuer-kommunen"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-10/verkehrspolitik-lkw-maut-ampel-landstrassen-staedte"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-02/nordrhein-westfalen-elterntaxis-strassensperrungen-schulen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-06/20/strassenverkehrsrecht-experten-erwarten-paradigmenwechsel"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-11/25/mehr-klarheit-wissing-kritisiert-bundeslaender"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-10/16/ampel-fraktionen-einigen-sich-auf-verkehrsreformen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-06/21/wissing-tempo-30-muss-mit-grundgesetz-vereinbar-sein"
+        },
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-10/lkw-maut-bundestag-abstimmung-verkehrsreform"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-03/tempolimit-staedte-tempo-30-verkehr-autos"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/volker-wissing-bundesverkehrsminister-tempolimit"
+        }
+      ],
+      "label": [
+        {
+          "label": "Debatte um Einführung eines Tempolimits auf deutschen Autobahnen",
+          "keywords": [
+            "Tempolimit",
+            "Autobahnen",
+            "Deutschland",
+            "Verkehrslärm",
+            "Volker Wissing",
+            "Bundesverkehrsminister",
+            "Debatte",
+            "Verkehrspolitik",
+            "Geschwindigkeitsbegrenzung",
+            "öffentliche Meinung"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 5361,
+      "distance": 0.6304292388320353,
+      "size": 2,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/news/2023-08/13/fahrrad-abo-deutschland-muss-bei-infrastruktur-zulegen"
+        },
+        {
+          "page": "https://www.zeit.de/hamburg/2024-03/elbvertiefung-13-03-2024"
+        }
+      ],
+      "label": [
+        {
+          "label": "Führungswechsel bei Otto und Jobexpansion bei Lufthansa Technik in Hamburg",
+          "keywords": [
+            "Neue Ära",
+            "Otto",
+            "Konzernchef",
+            "Michael Otto",
+            "operative Führung",
+            "Frau",
+            "Sohn",
+            "Lufthansa Technik",
+            "1.000 neue Jobs",
+            "Hamburg"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 5582,
+      "distance": 0.6257841168744286,
+      "size": 14,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/news/2024-04/16/unfaelle-mit-pedelecs-und-ihre-ursachen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-08/25/fahrrad-verband-viele-unfaelle-beim-rechtsabbiegen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-10/19/unfallstudie-zu-radfahrern-und-fussgaengern"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-03/19/mit-beinprothese-zurueck-ans-steuer"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-01/wegeunfaelle-fahrrad-tod-statistik-arbeitsweg"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-12/04/fuehrerscheinregeln-eu-staaten-positionieren-sich"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-01/04/bundesregierung-will-blinker-fuer-alle-fahrraeder-erlauben"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-05/fahrrad-verkehr-blinker-bundesrat"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-05/17/blinker-jetzt-fuer-alle-fahrraeder-erlaubt"
+        },
+        {
+          "page": "https://www.zeit.de/politik/2024-03/europaeische-union-verkehr-tote-strasse-fahrrad"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-12/13/mehr-toedliche-fahrradunfaelle-who-fordert-mehr-schutz"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-01/blinker-fahrrad-verkehr-handzeichen"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-01/26/trunkenheitsfahrten-sollten-schaerfer-bestraft-werden"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2023-12/radfahrer-strassenverkehr-unfaelle-verkehrsunfall"
+        }
+      ],
+      "label": [
+        {
+          "label": "Fahrradblinker für alle Fahrzeuge ermöglicht - sichereres Abbiegen im Straßenverkehr",
+          "keywords": [
+            "Fahrradblinker",
+            "Verkehrssicherheit",
+            "Straßenverkehr",
+            "Abbiegen",
+            "Vorschrift",
+            "Bundesrat",
+            "Liegerad",
+            "Fahrradfahrer",
+            "Verkehrsrecht",
+            "Änderung"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 5863,
+      "distance": 0.6181943173194913,
+      "size": 6,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/news/2023-09/09/pariser-radeln-oefter-autoverkehr-leicht-ruecklaeufig"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2023-09/verkehrswende-hannover-autofreie-innentstadt-mobilitaet"
+        },
+        {
+          "page": "https://www.zeit.de/hamburg/2024-01/hamburg-verkehr-stau-tomtom-studie"
+        },
+        {
+          "page": "https://www.zeit.de/hamburg/2024-01/hamburg-glatteis-raeum-streufplicht-faq"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-12/08/amsterdam-reduziert-fast-stadtweit-auf-tempo-30"
+        },
+        {
+          "page": "https://www.zeit.de/news/2023-12/08/paris-will-18-euro-parkgebuehr-pro-stunde-fuer-suv-verlangen"
+        }
+      ],
+      "label": [
+        {
+          "label": "Entwicklung hin zu autofreien Städten und vermehrter Fahrradnutzung in Europa",
+          "keywords": [
+            "Autofrei",
+            "Städte",
+            "Fahrradnutzung",
+            "Europa",
+            "Verkehrsrückgang",
+            "Radwegenetz",
+            "Nachhaltigkeit",
+            "Stadtplanung",
+            "Mobilitätswandel",
+            "Öffentlicher Verkehr"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 4910,
+      "distance": 0.6188405987018726,
+      "size": 1,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/mobilitaet/2023-07/berlin-verkehrsverwaltung-fahrradwege-freigabe"
+        }
+      ],
+      "label": [
+        {
+          "label": "Planung und Bau neuer Radwege in Berlin",
+          "keywords": [
+            "Berliner Senatsverwaltung",
+            "Freigabe",
+            "neue Radwege",
+            "Prüfung",
+            "Bau",
+            "Projekte",
+            "Senat",
+            "Realisierung",
+            "Verkehrspolitik",
+            "Infrastrukturverbesserung"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 4641,
+      "distance": 0.6248961588536909,
+      "size": 1,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/news/2023-07/08/kretschmann-viele-gruene-pflegen-beim-auto-altes-feindbild"
+        }
+      ],
+      "label": [
+        {
+          "label": "Kritik von Winfried Kretschmann an der grünen Partei bezüglich ihrer Haltung zum Auto",
+          "keywords": [
+            "Winfried Kretschmann",
+            "Grüne",
+            "Auto",
+            "Kulturkampf",
+            "CO2-Emission",
+            "Natur",
+            "Elektroautos",
+            "Kritik",
+            "Baden-Württemberg",
+            "Feindbild"
+          ]
+        }
+      ]
+    },
+    {
+      "cluster_id": 6334,
+      "distance": 0.5900392042334061,
+      "size": 4,
+      "articles": [
+        {
+          "page": "https://www.zeit.de/politik/deutschland/2023-10/infrastruktur-autobahn-schiene-ausbau-bundestag"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-04/12/klage-soll-den-ausbau-der-a8-verhindern"
+        },
+        {
+          "page": "https://www.zeit.de/mobilitaet/2024-04/gruene-volker-wissing-verkehrprojekte-bestandsaufnahme"
+        },
+        {
+          "page": "https://www.zeit.de/news/2024-04/03/gruene-ehrliche-bestandsaufnahme-bei-verkehrsprojekten"
+        }
+      ],
+      "label": [
+        {
+          "label": "Widerstand gegen Autobahnausbau A8 in Bayern durch Bund Naturschutz",
+          "keywords": [
+            "Klage",
+            "Ausbau",
+            "A8",
+            "Bayern",
+            "Bund Naturschutz",
+            "Regierung von Oberbayern",
+            "Planfeststellungsbeschluss",
+            "Bundesverwaltungsgericht",
+            "Leipzig",
+            "Landkreis Rosenheim"
+          ]
+        }
+      ]
+    }
+  ],
+  "edges": [
+    { "source": "4005", "target": 6000, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 8124, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 6334, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4299, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 4619, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 5863, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4910, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 4641, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5582, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 },
+    { "source": "4005", "target": 5361, "value": 1 }
+  ]
+}
