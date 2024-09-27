@@ -10,7 +10,7 @@
   let generationFixed = false;
 
   onMount(() => {
-    //create Thread for GPT Assistant: omitted for the demo 
+    //create Thread for GPT Assistant: omitted for the demo
     //fetch(`${PUBLIC_API_URL}/createThread`).then((res) => console.log(res));
   });
 
@@ -37,20 +37,20 @@
       },
     ];
 
-    //create new Thread: omitted for the demo 
+    //create new Thread: omitted for the demo
     //fetch(`${PUBLIC_API_URL}/createThread`).then((res) => console.log(res));
   }
 </script>
 
 <div class="app-wrapper">
-  <h1>ZON Visual Analytics Stories</h1>
+  <h1>Visual Analytics Stories</h1>
   <input
     type="checkbox"
     id="expert-mode"
     on:change={() => (expertMode = expertMode ? false : true)}
   />
-  <label for="generate">Expert-Modus</label>
-  {#if !generationFixed}
+  <label for="generate">Erklärungen ausblenden</label>
+  <!--  {#if !generationFixed}
     <input
       type="checkbox"
       id="generate"
@@ -59,7 +59,7 @@
     />
     <label for="generate">Generiere Erklärungen (Wartezeit nötig)</label>
     <br />
-  {/if}
+  {/if} -->
   <Intro {expertMode} />
   {#each contentBlocks as contentBlock, i (contentBlock)}
     <Contentblock
